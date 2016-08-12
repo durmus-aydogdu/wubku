@@ -1,0 +1,6 @@
+{
+  "name": "WUBKU",
+  "tagline": "Web Uygulamaları Bütünlük Kontrol Uygulaması",
+  "body": "### WUBKU\r\n\r\nWeb Uygulamaları Bütünlük Kontrol Uygulaması (WUBKU), Web Uygulama Bütünlük Kontrol Projesi kapsamında geliştirilen GPL v3 lisanslı açık kaynak kodlu bir uygulamadır. WUBKU, web uygulamalarının bütünlüğünün kontrol edilmesi ve bütünlük kontrolü üzerinden web uygulama güvenliğinin arttırılması amacıyla geliştirilmiştir.\r\n\r\nWUBKU, apache server üzerinde çalışan uygulamaların güvenliğinin arttırılmasında kullanılabilmektedir. WUBKU PHP, Bash ve MYSQL kullanılarak, içerisinde herhangi bir kötücül kod olmadan geliştirilmiştir. WUBKU'nun özellikleri aşağıda verilmiştir.\r\n\r\nUygulama içeriğinin yönetimi için arayüz sağlama,\r\nUygulamanın yetkisiz şekilde değiştirildiğinin tespit edilmesi,\r\nUygulamanın yetkisiz şekilde değiştirildiğinde tespiti ve değişen içeriğin otomatik olarak geri getirilmesi,\r\nUygulama üzerinde tespit edilen yetkisiz değişiklikler ve yetkili olarak yapılan işlemlerin takibi için arayüz sağlama,\r\nİstenildUygulama üzerinde tespit edilen yetkisiz değişiklikler ve yetkili olarak yapılan işlemlerin takibi için arayüz sağlama,\r\n\r\nDurmuş AYDOĞDU (@aydogdu-durmus)\r\n<br />\r\nhttp://www.wubku.com",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
